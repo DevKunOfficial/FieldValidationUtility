@@ -1,0 +1,32 @@
+Field Values Validation Utility Jar
+
+A Validation Utility Library that helps in validation of String, Number, Bolean and DateTime datatype values in Java projects. Features include easy implementation and use with one class and multiple useful static methods that would accept values to be validated and enable multiple functions depending on the datatype.
+
+Features:
+-triggered validation
+-reusable and flexible
+-efficient
+-Object level validation
+
+Object validation:
+-nullable
+-required
+-accepted values
+-not accepted values
+
+String validation:
+-length validation (maximum length, minimum length)
+-pattern validation (numeric, letter only, valid email)
+
+Number validation:
+-value validation (maximum value, minimum value)
+-precision
+
+Boolean validation:
+-value validation (true, false)
+
+DateTime validation:
+-value validation (minimum, maximum)
+
+Exceptions:
+-Invalid Field Value
